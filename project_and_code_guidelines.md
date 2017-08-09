@@ -587,7 +587,7 @@ Menu example:
 
 #### 2.3.2.2 Strings
 
-String names start with a prefix that identifies the section they belong to. For example `registration_email_hint` or `registration_name_hint`. If a string __doesn't belong__ to any section, then you should follow the rules below:
+String names start with a screen name prefix that identifies the screen they belong to followed by the section they belong to. For example `image_preview_more_info_bottom_sheet_title` or `image_preview_more_info_bottom_sheet_description`. If a string __doesn't belong__ to any section, then you should follow the rules below:
 
 
 | Prefix             | Description                           |
